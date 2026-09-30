@@ -1,0 +1,12 @@
+*.pt
+*.pth
+*.h5
+*.keras
+.env
+*-key.json
+*credentials*.json
+
+# Clutter that programs create on their own.
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
